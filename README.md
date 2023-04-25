@@ -18,3 +18,14 @@ This exercise is composed of to steps:
 * [HLS Guide](first-exercise/adder/HLS/GUIDE.md)
 
 Both implement a 12-bit fixed-point adder with simple code. There are differences in the workflow and the idea is to prepare the environment.
+
+* Second Exercise: Describing an ALU
+
+This exercise is a hands-on laboratory to give a better understanding about the circuit integration with RTL and HLS. Similar to the previous exercise, the student has to face the RTL and HLS workflows to create an Arithmetic Logic Unit (ALU) that performs arithmetic and logic operations based on an opcode. The circuit MUST be combinational and it must not consume any clock cycle.
+
+This exercise is composed of to steps:
+
+* [RTL Guide](second-exercise/alu/RTL/GUIDE.md)
+* [HLS Guide](second-exercise/alu/HLS/GUIDE.md)
+
+Both steps must be implemented using 12-bit logic.
