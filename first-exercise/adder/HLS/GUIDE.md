@@ -41,3 +41,4 @@ After running the HLS toolchain, a series of reports and artefacts are generated
 3. What kind of simulation is the co-simulation?
 4. What's the next step after having the RTL?
 5. Why does the final implementation have more ports?
+6. What's the maximum frequency?
