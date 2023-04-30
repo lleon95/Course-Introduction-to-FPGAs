@@ -35,10 +35,10 @@ The idea is to implement a Processing Element to perform the matrix-matrix multi
 In Deep Learning, vector dot products are quite common when implementing inference in low-latency applications. In this case, a single neuron can be modeled as a vector dot product between the weights (a.k.a. parameters) and the inputs to produce a single output.
 
 $$
-y = \bold{w} \cdot \bold{x}
+y = \mathbf{w} \cdot \mathbf{x}
 $$
 
-where $y$ is the scalar output, $\bold{x}$ and $\bold{w}$ are the input and weight vectors, respectively.
+where $y$ is the scalar output, $\mathbf{x}$ and $\mathbf{w}$ are the input and weight vectors, respectively.
 
 State-of-the-art accelerators usually use one of the following techniques:
 
