@@ -29,3 +29,23 @@ This exercise is composed of to steps:
 * [HLS Guide](second-exercise/alu/HLS/GUIDE.md)
 
 Both steps must be implemented using 12-bit logic.
+
+## Second day
+
+### Laboratories
+
+* Third exercise: Describing and optimising an accelerator for $\tanh(x)$.
+
+This exercise aims the use of the [Flexible Accelerators Library](https://gitlab.com/ecas-lab-tec/approximate-flexible-acceleration-ml/flexible-accelerators-library-fal) for describing an accelerator to perform a matricial `tanh(x)` operation. This exercise will limit to the following aspects:
+
+* The role of the interfaces
+* The optimisation process from the architecture point-of-view
+* The role of the configurability of the just-right architectures
+* Design Space Exploration for seeking "just-right" solutions
+* Comparison against CPU execution
+
+Please, follow the steps from the following guide:
+
+* [HLS Guide](third-exercise/GUIDE.md)
+
+This exercise will only be in HLS. RTL won't be covered from now on.

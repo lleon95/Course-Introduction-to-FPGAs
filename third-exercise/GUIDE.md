@@ -203,9 +203,7 @@ Once we have an architecture, it is time to adjust the solution to our needs. Le
 
 2. Compute the maximum performance in tanhops/sec. Please, consider the following equation:
 
-$$
-P_{\text{max}} = \lfloor \frac{1}{r} \rfloor \times \lfloor \frac{64}{\text{Q\_BW}} \rfloor \times \frac{1}{\text{CLOCK\_PERIOD}} [GOP/s]
-$$
+![](misc/equation.png)
 
 where
 
