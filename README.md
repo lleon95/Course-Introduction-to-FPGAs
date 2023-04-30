@@ -49,3 +49,21 @@ Please, follow the steps from the following guide:
 * [HLS Guide](third-exercise/GUIDE.md)
 
 This exercise will only be in HLS. RTL won't be covered from now on.
+
+## Final Project
+
+The final project will involve:
+
+* Development of an accelerator
+* Optimisation
+* Testing and validation
+
+The whole process will be simulated in Vivado 2018.2, using HLS and the Flexible Accelerators Library.
+
+You can find the details in the following guide:
+
+* [Project Guide](final-exercise/GUIDE.md)
+
+## Notes
+
+This is part of the course on Introduction to FPGA Acceleration for the MHPC 2023.
