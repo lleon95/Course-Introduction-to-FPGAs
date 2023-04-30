@@ -1,0 +1,3 @@
+[submodule "third-exercise/tanh"]
+	path = third-exercise/tanh
+	url = https://gitlab.com/ecas-lab-tec/approximate-flexible-acceleration-ml/flexible-accelerators-library-fal.git
